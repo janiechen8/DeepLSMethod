@@ -1,4 +1,4 @@
-# Singularly_Perturbed Equation
+# Singularly Perturbed Equation
 
 Jupyter Notebooks in this folder are for the numerical example in section 4.2.
 
