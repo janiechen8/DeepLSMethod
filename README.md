@@ -1,4 +1,4 @@
-# Pytorch Implementation for Solving PDEs
+# PyTorch Implementation for Solving PDEs
 
 Two numerical examples are provided in the repo to show how to solve partial differential equations (PDEs) using deep learning approach. Please see [1] to get details of the method. The solver is implemented in PyTorch. 
 
